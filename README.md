@@ -15,4 +15,3 @@ Now, you can simply run `organize_flowers17.py` script to download and organize 
 * `python global.py` - Extracts global features from training set and stores it in disk.
 * `python train_test.py` - Predicts the image class using the trained model.
 
-Tutorial for this project is available at - [Image Classification using Python and Machine Learning](https://gogul09.github.io/software/image-classification-python)
